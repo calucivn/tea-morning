@@ -1,0 +1,22 @@
+{
+  "name": "tea-morning",
+  "version": "1.0.0",
+  "description": "this is a package for relaxing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'tea-morning'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calucivn/tea-morning.git"
+  },
+  "keywords": [
+    "tea-morning"
+  ],
+  "author": "calucivn",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/calucivn/tea-morning/issues"
+  },
+  "homepage": "https://github.com/calucivn/tea-morning#readme"
+}
