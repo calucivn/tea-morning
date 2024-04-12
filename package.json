@@ -1,6 +1,6 @@
 {
   "name": "tea-morning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a package for relaxing",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/calucivn/tea-morning/issues"
   },
-  "homepage": "https://github.com/calucivn/tea-morning#readme"
+  "homepage": "https://github.com/calucivn/tea-morning#readme",
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.2.0"
+  }
 }
